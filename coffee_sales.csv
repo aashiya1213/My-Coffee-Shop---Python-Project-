@@ -1,0 +1,32 @@
+order_id,item,category,price,quantity,payment_method,order_time
+1001,Espresso,Coffee,2.50,2,Card,2026-10-12 08:05
+1002,Latte,Coffee,4.20,1,Cash,2026-10-12 08:20
+1003,Croissant,Pastry,2.90,2,Card,2026-10-12 08:45
+1004,Cappuccino,Coffee,3.80,1,Mobile Pay,2026-10-12 09:10
+1005,Chicken Panini,Food,7.50,1,Card,2026-10-12 12:15
+1006,Green Tea,Tea,3.20,1,Cash,2026-10-12 12:40
+1007,Cheesecake,Dessert,5.50,1,Card,2026-10-12 14:30
+1008,Americano,Coffee,3.00,2,Mobile Pay,2026-10-12 15:05
+1009,Mocha,Coffee,4.80,1,Card,2026-10-13 08:10
+1010,Blueberry Muffin,Pastry,3.50,1,Cash,2026-10-13 08:35
+1011,latte,coffee,4.20,2,Card,2026-10-13 09:00
+1012,Avocado Sandwich,Food,6.90,1,Mobile Pay,2026-10-13 12:05
+1013,Chai Latte,Tea,4.60,1,Card,2026-10-13 13:20
+1014,Chocolate Cake,Dessert,5.80,1,Cash,2026-10-13 15:45
+1015,Iced Latte,Coffee,4.50,1,Card,2026-10-13 16:10
+1016,Espresso,Coffee,2.50,3,Cash,2026-10-14 07:55
+1017,Latte,Coffee,,1,Card,2026-10-14 08:25
+1018,Croissant,Pastry,2.90,1,,2026-10-14 08:50
+1019,Cappuccino,Coffee,3.80,-1,Card,2026-10-14 09:30
+1020,Chicken Panini,Food,7.50,2,Mobile Pay,2026-10-14 12:25
+1021,Mocha,Coffee,48.00,1,Card,2026-10-14 13:00
+1022,Green Tea,Tea,3.20,,Cash,2026-10-14 14:10
+1023,Cheesecake,Dessert,5.50,2,Card,2026-10-14 15:20
+1024,Iced Latte,Coffee,4.50,2,Mobile Pay,2026-10-15 11:15
+1025,Americano,Coffee,3.00,1,Cash,2026-10-15 08:05
+1026,Avocado Sandwich,Food,6.90,1,Card,2026-10-15 12:50
+1027,Blueberry Muffin,Pastry,3.50,2,Card,2026-10-15 09:40
+1028,Chai Latte,Tea,4.60,2,Mobile Pay,2026-10-15 16:00
+1029,Chocolate Cake,Dessert,5.80,1,Card,2026-10-15 15:10
+1030,Latte,Coffee,4.20,1,Card,2026-10-15 08:15
+1005,Chicken Panini,Food,7.50,1,Card,2026-10-12 12:15

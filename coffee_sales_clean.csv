@@ -1,0 +1,31 @@
+order_id,item,category,price,quantity,payment_method,order_time,total_price,hour,date
+1001,Espresso,Coffee,2.5,2,Card,2026-10-12 08:05:00,5.0,8,2026-10-12
+1002,Latte,Coffee,4.2,1,Cash,2026-10-12 08:20:00,4.2,8,2026-10-12
+1003,Croissant,Pastry,2.9,2,Card,2026-10-12 08:45:00,5.8,8,2026-10-12
+1004,Cappuccino,Coffee,3.8,1,Mobile Pay,2026-10-12 09:10:00,3.8,9,2026-10-12
+1005,Chicken Panini,Food,7.5,1,Card,2026-10-12 12:15:00,7.5,12,2026-10-12
+1006,Green Tea,Tea,3.2,1,Cash,2026-10-12 12:40:00,3.2,12,2026-10-12
+1007,Cheesecake,Dessert,5.5,1,Card,2026-10-12 14:30:00,5.5,14,2026-10-12
+1008,Americano,Coffee,3.0,2,Mobile Pay,2026-10-12 15:05:00,6.0,15,2026-10-12
+1009,Mocha,Coffee,4.8,1,Card,2026-10-13 08:10:00,4.8,8,2026-10-13
+1010,Blueberry Muffin,Pastry,3.5,1,Cash,2026-10-13 08:35:00,3.5,8,2026-10-13
+1011,Latte,Coffee,4.2,2,Card,2026-10-13 09:00:00,8.4,9,2026-10-13
+1012,Avocado Sandwich,Food,6.9,1,Mobile Pay,2026-10-13 12:05:00,6.9,12,2026-10-13
+1013,Chai Latte,Tea,4.6,1,Card,2026-10-13 13:20:00,4.6,13,2026-10-13
+1014,Chocolate Cake,Dessert,5.8,1,Cash,2026-10-13 15:45:00,5.8,15,2026-10-13
+1015,Iced Latte,Coffee,4.5,1,Card,2026-10-13 16:10:00,4.5,16,2026-10-13
+1016,Espresso,Coffee,2.5,3,Cash,2026-10-14 07:55:00,7.5,7,2026-10-14
+1017,Latte,Coffee,4.2,1,Card,2026-10-14 08:25:00,4.2,8,2026-10-14
+1018,Croissant,Pastry,2.9,1,Unknown,2026-10-14 08:50:00,2.9,8,2026-10-14
+1019,Cappuccino,Coffee,3.8,1,Card,2026-10-14 09:30:00,3.8,9,2026-10-14
+1020,Chicken Panini,Food,7.5,2,Mobile Pay,2026-10-14 12:25:00,15.0,12,2026-10-14
+1021,Mocha,Coffee,4.8,1,Card,2026-10-14 13:00:00,4.8,13,2026-10-14
+1022,Green Tea,Tea,3.2,1,Cash,2026-10-14 14:10:00,3.2,14,2026-10-14
+1023,Cheesecake,Dessert,5.5,2,Card,2026-10-14 15:20:00,11.0,15,2026-10-14
+1024,Iced Latte,Coffee,4.5,2,Mobile Pay,2026-10-15 11:15:00,9.0,11,2026-10-15
+1025,Americano,Coffee,3.0,1,Cash,2026-10-15 08:05:00,3.0,8,2026-10-15
+1026,Avocado Sandwich,Food,6.9,1,Card,2026-10-15 12:50:00,6.9,12,2026-10-15
+1027,Blueberry Muffin,Pastry,3.5,2,Card,2026-10-15 09:40:00,7.0,9,2026-10-15
+1028,Chai Latte,Tea,4.6,2,Mobile Pay,2026-10-15 16:00:00,9.2,16,2026-10-15
+1029,Chocolate Cake,Dessert,5.8,1,Card,2026-10-15 15:10:00,5.8,15,2026-10-15
+1030,Latte,Coffee,4.2,1,Card,2026-10-15 08:15:00,4.2,8,2026-10-15
